@@ -47,10 +47,6 @@ main {
   margin-left: 1em;
 }
 
-form {
-  /* background-color: aliceblue; */
-}
-
 footer {
   text-align: center;
   display: flexbox;
