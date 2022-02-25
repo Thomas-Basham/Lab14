@@ -1,1 +1,51 @@
 /* TODO: Make it awesome */
+* {
+  background-color: rgb(233, 207, 122);
+  /* margin-left: 1em; */
+}
+
+h1 {
+  font-size: 1.5em;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  font-family: 'Courgette', cursive;
+  color: darkslategray;
+  text-align: center;
+}
+
+li {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left: .3em;
+}
+
+span {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: blue;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+label {
+  background-color: aliceblue;
+}
+
+legend {
+  font-style:italic;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  /* margin-left: 1em; */
+}
+
+p {
+  display: flex;
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+main {
+  margin-left: 1em;
+}
+
+form {
+  /* background-color: aliceblue; */
+}
