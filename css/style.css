@@ -31,16 +31,17 @@ label {
 
 legend {
   font-style:italic;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 3em;
+  margin-bottom: 5em;
   /* margin-left: 1em; */
 }
 
-p {
+/* p {
   display: flex;
   margin-left: 1em;
   margin-top: 1em;
-}
+  text-align: center;
+} */
 
 main {
   margin-left: 1em;
@@ -48,4 +49,12 @@ main {
 
 form {
   /* background-color: aliceblue; */
+}
+
+footer {
+  text-align: center;
+  display: flexbox;
+  margin-left: 1em;
+  margin-top: 8em;
+  text-align: center;
 }
