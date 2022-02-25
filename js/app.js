@@ -12,6 +12,7 @@ let item = new CartItem(product, quantity);
 this.items.push(item);
 };
 
+
 Cart.prototype.saveToLocalStorage = function() {
   // TODO: Fill in this instance method to save the contents of the cart to localStorage
 };
