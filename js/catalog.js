@@ -1,5 +1,7 @@
 /* global Product, Cart */
 
+// WE DID OUR BEST. THIS WAS A TOUGH LAB.
+
 'use strict';
 
 // Set up an empty cart for use on this page.
